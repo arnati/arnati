@@ -31,9 +31,10 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [**Платформы**](https://github.com/arnati/1C-Projects/tree/main/Платформы) | Внешняя обработка для работы со справочником «Платформы» в 1С 8.3.25 (управляемые формы, MS SQL). | ![1C](https://img.shields.io/badge/-1C:%20Enterprise-red) ![SQL](https://img.shields.io/badge/-SQL-blue) |
-| [**Фактория**](https://github.com/arnati/1C-Projects/tree/main/Фактория) | Учебная конфигурация для управления товарными остатками и движением товаров. | ![1C](https://img.shields.io/badge/-1C:%20Enterprise-red) |
-| [**Тестовое задание (ИКЦ ЛОГОС)**](https://github.com/arnati/1C-Projects/tree/main/Тестовое%20задание) | Разработка внешней обработки под требования компании. | ![1C](https://img.shields.io/badge/-1C:%20Enterprise-red) ![SQL](https://img.shields.io/badge/-SQL-blue) |
+| [**1С:Фактория**](https://github.com/arnati/Factory) | Полнофункциональная конфигурация: справочники, заказы, приходно-расходные документы, производство, регистры накопления, отчёты (продажи, остатки, зарплата), аутентификация и единый интерфейс. | ![1C](https://img.shields.io/badge/-1C:%20Enterprise-red)|
+| [**Учёт товаров и отчёт остатков**](https://github.com/arnati/Goods_accounting) | Создание документов поступления и расхода товаров с контролем остатков, регистром накопления и отчётом на заданную дату. | ![1C](https://img.shields.io/badge/-1C:%20Enterprise-red) |
+| [**Комплексная доработка конфигурации 1С**](https://github.com/arnati/Comprehensive_Rework) | Реализация обработки очистки регистра сведений, ограничений в документах, изменение печатной формы и автозаполнения табличной части. | ![1C](https://img.shields.io/badge/-1C:%20Enterprise-red)|
+| [**Платформы (внешняя обработка)**](https://github.com/arnati/Platforms) | Внешняя обработка для генерации случайных чисел и подбора платформ. | ![1C](https://img.shields.io/badge/-1C:%20Enterprise-red)|
 
 ---
 
@@ -48,9 +49,8 @@
 
 ## 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/rbatis)
 [![Email](https://img.shields.io/badge/Email-sergey@example.com-red?logo=gmail&logoColor=white)](mailto:sergey@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
 
 ---
 
