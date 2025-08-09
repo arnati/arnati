@@ -1,6 +1,6 @@
 <!-- Баннер -->
 <p align="center">
-  <img src="https://github.com/arnati/arnati/blob/main/assets/banner.png" alt="Привет, я Сергей — начинающий 1С-разработчик" />
+  <img src="https://github.com/arnati/arnati/blob/main/banner3.jpg" alt="Привет, я Сергей — начинающий 1С-разработчик" />
 </p>
 
 ---
