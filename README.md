@@ -5,7 +5,6 @@
 
 ---
 
-## 👋 Привет!  
 
 Я **Сергей Мишаков**, начинающий 1С-разработчик.  
 Хочу развиваться в области автоматизации бизнес-процессов, интеграций 1С с внешними сервисами и работы с базами данных.  
@@ -50,7 +49,7 @@
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/rbatis)
-[![Email](https://img.shields.io/badge/Email-sergey@example.com-red?logo=gmail&logoColor=white)](mailto:sergey@example.com)
+[![Email](https://img.shields.io/badge/Email-s.mishakov@mail.ru-blue?logo=maildotru&logoColor=white)](mailto:s.mishakov@mail.ru)
 
 ---
 
